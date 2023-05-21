@@ -1,13 +1,13 @@
 # grouped_buttons
-All Credit Goes Its Orignal Owner - Akshath Jain
-A collection of Flutter widgets for grouping checkboxes and radio buttons easily!
+- All Credit Goes Its Orignal Owner - Akshath Jain
+- A collection of Flutter widgets for grouping checkboxes and radio buttons easily!
 
 ## Installation
 
 Add the following to your `pubspec.yaml` file:
 
 dependencies:
-grouped_buttons: ^0.0.1
+club_buttons: ^0.0.2
 
 
 ## Simple Usage
@@ -86,6 +86,7 @@ CheckboxGroup(
 ```
 
 Custom RadioButtonGroup:
+
 |   Properties  |  Description |
 |---------------|--------------|
 |activeColor|The color to use when a Radio button is checked.|
